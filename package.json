@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Subharanjan-Playground/Package-check#readme"
   "publishConfig": {
-   "@Subharanjan2055:registry": "https://npm.pkg.github.com"
+   "Subharanjan2055:registry": "https://npm.pkg.github.com"
  
 }
